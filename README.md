@@ -31,24 +31,11 @@ This project focuses on automating the generation of radiology reports from ches
 1. **Clone this repository:**
     ```bash
     git clone https://github.com/bhargavis19/Automated-Radiology-Report-Generation-from-Chest-X-rays.git
-    cd auto-radiology-report
     ```
 
 2. **Install dependencies:**
     ```bash
     pip install -r requirements.txt
-    ```
-
-3. **Download and prepare dataset** (Follow instructions in `/data/README.md`)
-
-4. **Run training:**
-    ```bash
-    python train.py
-    ```
-
-5. **Generate reports:**
-    ```bash
-    python generate_report.py --image_path sample_xray.png
     ```
 
 ## ✅ Evaluation Metrics
