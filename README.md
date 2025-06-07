@@ -30,7 +30,7 @@ This project focuses on automating the generation of radiology reports from ches
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/bhargavis19/auto-radiology-report.git
+    git clone https://github.com/bhargavis19/Automated-Radiology-Report-Generation-from-Chest-X-rays.git
     cd auto-radiology-report
     ```
 
